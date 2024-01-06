@@ -1,3 +1,6 @@
+[Go Back to Mastoget](https://mastoget.x10.bz)  
+
+
 # Terms of Service
 When you use our site https://mastoget.x10.bz, you agree to the following terms and conditions otherwise do not use our service again. It's just simple, you have to only follow two commandments. To check out the revisions of this terms, please visit https://github.com/The-Mastoget-Organization/termsofservice/commits/main
 
